@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="profile_pic_width">64dp</dimen>
+    <dimen name="profile_pic_height">64dp</dimen>
+    <dimen name="drawer_header_width">200dp</dimen>
+    <dimen name="drawer_header_padding">16dp</dimen>
+    <dimen name="drawer_header_height">200dp</dimen>
+    <dimen name="profile_pic_margin_top">40dp</dimen>
+    <dimen name="text_view_name_margin_top">10dp</dimen>
+</resources>

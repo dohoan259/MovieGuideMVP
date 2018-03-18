@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="version_text_view_padding">5dp</dimen>
+</resources>
